@@ -1,5 +1,6 @@
 # mcp server
-- mpc serverのコレクション https://mcp.so/ja
+- [mcp.so](https://mcp.so/ja)
+- [mcp example servers](https://modelcontextprotocol.io/examples)
 
 ## servers
 | server | url | comment |
